@@ -15,7 +15,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .fontWeight(.thin)
                 .foregroundStyle(.green)
-            
+            Text("hi")
             HStack {
                 Image(systemName: "figure.american.football")
                     .resizable()
